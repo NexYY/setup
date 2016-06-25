@@ -1,0 +1,10 @@
+[
+	    {"command": "anaconda_goto", "keys": ["g", "d"],
+        "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.python" },
+            { "key": "setting.command_mode", "operand": true },
+            { "key": "setting.is_widget", "operand": false }
+        ]
+    },
+]
