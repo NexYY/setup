@@ -1,2 +1,0 @@
-# setup-ubuntu
-Ubuntu Setup
